@@ -5,7 +5,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-
+ .body{
+    overflow-x: hidden;
+ }
 .a {
     background-color: #eee1d6;
     min-height: 100vh;
@@ -18,6 +20,7 @@
     align-items: center;
     padding: 20px 60px;
 }
+
 
 .c {
     display: flex;
@@ -133,6 +136,10 @@
     width: 50px;
     border-radius: 50%;
 }
+
+
+
+
 
 .n {
     top: 45%;
@@ -450,7 +457,7 @@ background-color:#E2BAA4;
     color: #333;
     margin-bottom: 30px;
 }
-
+ 
 .ff6 {
     display: flex;
     align-items: center;
@@ -614,6 +621,3 @@ background-color:#E2BAA4;
 .dr5{
     margin-bottom: 40px;
 } 
-@media (max-width:510px) {
-
-}
