@@ -613,4 +613,7 @@ background-color:#E2BAA4;
 }
 .dr5{
     margin-bottom: 40px;
+} 
+@media (max-width:510px) {
+
 }
