@@ -304,3 +304,11 @@ display: flex;
     margin-bottom: 20px;
     width: 605px;
 }
+.d333{
+position: relative;
+left: -100px;
+    margin-top: 90px;
+}
+.d333 .bl{
+background-color:#E2BAA4;
+}
