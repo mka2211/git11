@@ -1,0 +1,194 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.a {
+    background-color: #eee1d6;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.b {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+}
+
+.c {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.e {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.f {
+    display: flex;
+    gap: 30px;
+}
+
+.f a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+
+.g {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.h {
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+
+.i {
+    background-color: #2b2b2b;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.j {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: calc(100vh - 80px);
+    position: relative;
+    padding: 0 20px;
+}
+
+.w {
+    font-size: 80px;
+    line-height: 1;
+    max-width: 900px;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+}
+
+.x {
+    color: #444;
+    line-height: 1.5;
+    margin-bottom: 40px;
+    max-width: 600px;
+}
+
+.y {
+    display: flex;
+    gap: 15px;
+}
+
+.z {
+    background-color: #2b2b2b;
+    color: #fff;
+    border: none;
+    padding: 18px 32px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.aa {
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #000;
+    padding: 18px 32px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.k {
+    position: absolute;
+}
+
+.l {
+    top: 15%;
+    left: 10%;
+    width: 50px;
+}
+
+.m {
+    top: 30%;
+    left: 18%;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.n {
+    top: 45%;
+    left: 14%;
+    width: 40px;
+}
+
+.o {
+    top: 58%;
+    left: 22%;
+    width: 45px;
+}
+
+.p {
+    top: 75%;
+    left: 18%;
+    width: 35px;
+}
+
+.q {
+    top: 19%;
+    left: 1180px;
+    right: 12%;
+    width: 40px;
+}
+
+.r {
+    top: 30%;
+    right: 10%;
+    width: 40px;
+}
+
+.s {
+    top: 40%;
+    right: 14%;
+    width: 60px;
+}
+
+.t {
+    top: 55%;
+    right: 12%;
+    width: 50px;
+}
+
+.u {
+    top: 80%;
+    right: 12%;
+    width: 45px;
+}
+
+.v {
+    top: 50%;
+    right: 28%;
+    width: 55px;
+    border-radius: 50%;
+}
+.de3{
+    background-color: #F1DFD5;
+}
